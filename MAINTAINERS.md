@@ -1,7 +1,3 @@
-- [Overview](#overview)
-- [Current Maintainers](#current-maintainers)
-- [Emeritus](#emeritus)
-
 ## Overview
 
 This document contains a list of maintainers in this repo.
