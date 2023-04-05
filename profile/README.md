@@ -15,7 +15,7 @@ Welcome to [Microcks](https://microcks.io/), the Open-Source [(OSS)](https://ope
 
 As numerous API styles and protocols coexist, requiring the need for a uniform way to accelerate and secure their delivery! Our objective is to establish Microcks as the de-facto standard tool for delivering this unified approach [the Open-Source way](https://www.theopensourceway.org/) 🙌
 
-> 💡 From day one, Microcks had the vision of a multi-protocol API ecosystem due to the ubiquitous nature of API. This is especially true at the enterprise level where the technology strata are built over the years.
+> 💡 **From day one, Microcks had the vision of a multi-protocol API ecosystem due to the ubiquitous nature of API. This is especially true at the enterprise level where the technology strata are built over the years.**
 
 The most important aspect is testing your APIs consistently using [OpenAPI](https://www.openapis.org/), [AsyncAPI](https://www.asyncapi.com/), and [Postman Collections](https://www.postman.com/collection/) across web, [gRPC](https://grpc.io/), [WebSockets](https://websockets.spec.whatwg.org/#the-websocket-interface), [GraphQL](https://graphql.org/), [Kafka](https://kafka.apache.org/), [NATS](https://nats.io/), Google [PubSub](https://cloud.google.com/pubsub/docs/overview?hl=en) and other popular patterns and protocols of your API lifecycle.
 
@@ -31,7 +31,7 @@ Come and say hi! on our [Github discussion](https://github.com/microcks/microcks
 
 Wondering where to start first?
 
-> ⏩ Very easy and strength forward using [Docker Desktop Extension](https://microcks.io/documentation/installing/docker-desktop-extension/)
+> **⏩ Very easy and strength forward using [Docker Desktop Extension](https://microcks.io/documentation/installing/docker-desktop-extension/)**
 
 But don't forget to check all the [documentations](https://microcks.io/documentation/) we are maintaining:  
 - [Quickstart](https://microcks.io/documentation/getting-started/) 👍
@@ -41,8 +41,8 @@ But don't forget to check all the [documentations](https://microcks.io/documenta
 - Users IAM / RBAC, secrets, check the [administration page](https://microcks.io/documentation/administrating/) 🔒
 - .../...
 
-📺 If you rather prefer to watch a video, check :
-> https://www.youtube.com/@Microcks/videos
+📺 If you rather prefer to watch a video, check👇
+https://www.youtube.com/@Microcks/videos
 
 
 ## 👩🏽‍💻 Contribute to Microcks
@@ -53,7 +53,7 @@ To get involved with our community, please make sure you are familiar with the p
 
 You should also check out our [contribution guide](https://github.com/microcks/microcks/blob/master/CONTRIBUTING.md).
 
-> 📢 Remember, code isn't the only way to help out! ❤️👇
+> **📢 Remember, code isn't the only way to help out! ❤️👇**
 - [Tell us more](https://microcks.io/blog/) about your Microcks use cases and share it with all 🌍🌎🌏
 - Help us to polish the [documentations](https://microcks.io/documentation/)
 - Like & share Microcks news and announcement on social networks 🤝
