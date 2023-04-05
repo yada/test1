@@ -31,7 +31,7 @@ Come and say hi! on our [Github discussion](https://github.com/microcks/microcks
 
 Wondering where to start first?
 
-> **⏩ Very easy and strength forward using [Docker Desktop Extension](https://microcks.io/documentation/installing/docker-desktop-extension/)**
+> **⏩ Very easy and straightforward using [Docker Desktop Extension](https://microcks.io/documentation/installing/docker-desktop-extension/)**
 
 But don't forget to check all the [documentations](https://microcks.io/documentation/) we are maintaining:  
 - [Quickstart](https://microcks.io/documentation/getting-started/) 👍
