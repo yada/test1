@@ -17,7 +17,7 @@ As numerous API styles and protocols coexist, requiring the need for a uniform w
 
 > 💡 From day one, Microcks had the vision of a multi-protocol API ecosystem due to the ubiquitous nature of API. This is especially true at the enterprise level where the technology strata are built over the years.
 
-The most important aspect is testing your APIs consistently using OpenAPI, AsyncAPI, and Postman Collections across web, gRPC, WebSockets, GraphQL, Kafka, NATS, Google PubSub and other popular patterns and protocols of your API lifecycle.
+The most important aspect is testing your APIs consistently using [OpenAPI](https://www.openapis.org/), [AsyncAPI](https://www.asyncapi.com/), and [Postman Collections](https://www.postman.com/collection/) across web, [gRPC](https://grpc.io/), [WebSockets](https://websockets.spec.whatwg.org/#the-websocket-interface), [GraphQL](https://graphql.org/), [Kafka](https://kafka.apache.org/), [NATS](https://nats.io/), Google [PubSub](https://cloud.google.com/pubsub/docs/overview?hl=en) and other popular patterns and protocols of your API lifecycle.
 
 ## 🌎 Join Microcks community
 
