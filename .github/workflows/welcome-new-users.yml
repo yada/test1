@@ -1,0 +1,49 @@
+# Welcome new users by creating a comment in the first time issue/PR/Reactions.
+# Message in the comment to tip non-stargazers to star our repo.
+#
+# Props to https://github.com/wow-actions/welcome 
+
+name: Welcome New Users with Thanks and Tip non-stargazers
+on:
+  pull_request:
+    types: [opened, closed]
+  issues:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/welcome@v1
+        with:
+          FIRST_ISSUE_REACTIONS: '+1, hooray, rocket, heart'
+          
+          FIRST_ISSUE: |
+            👋 @{{ author }}
+             Thanks for opening your first issue here! Be sure to follow the issue template!
+          
+          #FIRST_ISSUE_COMMENT: |
+           # 👋 @{{ author }}
+            # Thanks for opening your first issue here! Be sure to follow the issue template!
+          
+          FIRST_PR_REACTIONS: '+1, hooray, rocket, heart'
+          
+          FIRST_PR: |
+            👋 @{{ author }}
+            Thanks for opening this pull request! Please check out our contributing guidelines.
+          
+          #FIRST_PR_COMMENT: |
+           # 👋 @{{ author }}
+            #Thanks for opening this pull request! Please check out our contributing guidelines.
+          
+          FIRST_PR_MERGED: |
+            🎉 @{{ author }}
+            Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+            
+          STAR_MESSAGE: |
+            If you like this project, please ⭐star⭐ our repo to support it!
+            
+            🙏 It really helps the project to gain momentum and credibility. 
+            It's a small contribution back to the project with a big impact.
+            
+          
+          
