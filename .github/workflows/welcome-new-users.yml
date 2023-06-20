@@ -22,28 +22,38 @@ jobs:
           
           FIRST_ISSUE: |
             👋 @{{ author }}
-             Thanks for opening your first issue here! Be sure to follow the issue template!
-          
-          #FIRST_ISSUE_COMMENT: |
-           # 👋 @{{ author }}
-            # Thanks for opening your first issue here! Be sure to follow the issue template!
+            Welcome to the Microcks community! 💖
+            Thanks and congrats 🎉 for opening your first issue here! Be sure to follow the issue template or please update it accordingly.
+            Hope you have a great time there! 
+
+          FIRST_ISSUE_COMMENT: |
+            👋 @{{ author }}
+            Welcome to the Microcks community! 💖
+            Thanks and congrats 🎉 for your first issue comment here!
+            Hope you have a great time there! 
           
           FIRST_PR_REACTIONS: '+1, hooray, rocket, heart'
           
           FIRST_PR: |
             👋 @{{ author }}
-            Thanks for opening this pull request! Please check out our contributing guidelines.
+            Welcome to the Microcks community! 💖
+            Thanks and congrats 🎉 for opening your first pull request here! Be sure to follow the PR template or please update it accordingly.
+            Hope you have a great time there! 
           
-          #FIRST_PR_COMMENT: |
-           # 👋 @{{ author }}
-            #Thanks for opening this pull request! Please check out our contributing guidelines.
+          FIRST_PR_COMMENT: |
+            👋 @{{ author }}
+            Welcome to the Microcks community! 💖
+            Thanks and congrats 🎉 for your first pull request comment here!
+            Hope you have a great time there! 
           
           FIRST_PR_MERGED: |
             🎉 @{{ author }}
-            Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+            You are now a Microcks community contributor! 💖
+            Thanks and congrats 🚀 on merging your first pull request! We are delighted and very proud of you! 👏 
+            Please keep going and
             
           STAR_MESSAGE: |
-            If you like this project, please ⭐star⭐ our repo to support it!
+            📢 If you like this project, please ⭐star⭐ our repo to support it! 🚀
             
             🙏 It really helps the project to gain momentum and credibility. 
             It's a small contribution back to the project with a big impact.
