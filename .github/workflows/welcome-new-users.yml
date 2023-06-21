@@ -5,14 +5,12 @@
 
 name: Welcome New Users with Thanks and Tip non-stargazers ;-)
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, closed]
   issues:
     types: [opened]
 jobs:
   run:
-    permissions:
-      pull-requests: write
     # Do not run on bots and maintainers
     if: ${{ !contains(fromJson('["dependabot[bot]", "dependabot-preview[bot]", "allcontributors[bot]"]'), github.actor) }}
     runs-on: ubuntu-latest
