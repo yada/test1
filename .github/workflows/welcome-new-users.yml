@@ -11,6 +11,8 @@ on:
     types: [opened]
 jobs:
   run:
+    permissions:
+      pull-requests: write
     # Do not run on bots and maintainers
     if: ${{ !contains(fromJson('["dependabot[bot]", "dependabot-preview[bot]", "allcontributors[bot]"]'), github.actor) }}
     runs-on: ubuntu-latest
