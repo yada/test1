@@ -1,5 +1,5 @@
 # Welcome new users by creating a comment in the first time issue/PR.
-# Adding a frienfly message in the comment to tip non-stargazers to star our repo.
+# Adding a friendly message in the comment to tip non-stargazers to star our repo.
 #
 # Props to https://github.com/wow-actions/welcome 
 
@@ -32,7 +32,7 @@ jobs:
             📢 If you're using Microcks in your organization, please add your company name to this list. 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
             See: https://github.com/microcks/.github/blob/main/ADOPTERS.md
             
-            If you need to know why and how to add yourself in the list, please read the blog post "Join the Microcks Adopters list and Empower the vibrant open source Community 🙌"
+            If you need to know why and how to add yourself to the list, please read the blog post "Join the Microcks Adopters list and Empower the vibrant open source Community 🙌"
             See: https://microcks.io/blog/join-adopters-list/
             
             Hope you have a great time there! 
@@ -58,7 +58,7 @@ jobs:
             📢 If you're using Microcks in your organization, please add your company name to this list. 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
             See: https://github.com/microcks/.github/blob/main/ADOPTERS.md
             
-            If you need to know why and how to add yourself in the list, please read the blog post "Join the Microcks Adopters list and Empower the vibrant open source Community 🙌"
+            If you need to know why and how to add yourself to the list, please read the blog post "Join the Microcks Adopters list and Empower the vibrant open source Community 🙌"
             See: https://microcks.io/blog/join-adopters-list/
             
             Kudos and please keep going, we need you 🙌
