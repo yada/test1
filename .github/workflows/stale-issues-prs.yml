@@ -40,7 +40,7 @@ jobs:
             Let us figure out together how to push this pull request forward. Connect with us through [one of many communication channels](https://microcks.io/community/) we established here.
             
             Thank you for your patience :heart:
-          days-before-stale: -1
+          days-before-stale: 1
           days-before-close: 30
           stale-issue-label: stale
           stale-pr-label: stale
