@@ -2,8 +2,8 @@
 name: Manage stale issues and PRs
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  #schedule:
+   # - cron: "0 0 * * *"
 
 permissions:
   contents: read
