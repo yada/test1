@@ -1,9 +1,7 @@
 # This workflow is used to manage stale issues and PRs in the Microcks project.
 name: Manage stale issues and PRs
 
-on:
-  #schedule:
-   # - cron: "0 0 * * *"
+on: workflow_dispatch
 
 permissions:
   contents: read
